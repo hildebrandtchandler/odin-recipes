@@ -1,0 +1,27 @@
+body {
+    background-color:rgb(129, 226, 243);
+    font-size: 20px;
+}
+
+h1 {
+    font-size: 100px;
+    color: rgb(163, 98, 24);
+}
+
+h2 {
+    font-size: 60px;
+    color: rgb(163, 98, 24);
+}
+
+a {
+    color: rgb(252, 93, 1);
+}
+
+a:hover {
+    color: white;
+}
+
+.back {
+    font-size: large;
+    font-weight: bold;
+}
